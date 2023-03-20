@@ -8,27 +8,26 @@
 # Tech Stack
 
 ##### Languages
-1. C++
-2. Java
-3. JavaFX
-4. Python
-5. LabView
-6. Excel
-7. VBA
-8. C#
-9. CSS
-10. HTML
-11. JavaScript
-12. SQL
-13. XAML
+- C++
+- Java
+- JavaFX
+- Python
+- LabView
+- VBA
+- C#
+- CSS
+- HTML
+- JavaScript
+- SQL
+- XAML
 
 ##### Frameworks
-1. .NET
-2. MAUI
-3. Blazor
-4. React Native
-5. Node.js
+- .NET
+- MAUI
+- Blazor
+- React Native
+- Node.js
 
 ##### Databases
-1. MSSQL
-2. MongoDB
+- MSSQL
+- MongoDB
